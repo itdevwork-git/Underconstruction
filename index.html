@@ -31,7 +31,7 @@
     <header class="w-full max-w-7xl mx-auto px-6 py-6 flex items-center justify-between">
         <!-- Logo positioned in the upper left - Switched to WebP format -->
         <div class="flex items-center">
-            <img src="AME Pay Logo.webp" alt="AME Pay Logo" class="h-16 w-auto object-contain">
+            <img src="https://res.cloudinary.com/duj1j8ljv/image/upload/q_auto/f_auto/v1778727129/AME_Pay_Logo_kidbn9.png" alt="AME Pay Logo" class="h-16 w-auto object-contain">
         </div>
         
         <!-- Interactive elements disabled as per previous instructions -->
